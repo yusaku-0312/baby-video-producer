@@ -1,0 +1,17 @@
+{
+  "name": "baby-video-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"typecheck": "tsc --noEmit", "render": "remotion render remotion/index.ts BabyVideo"},
+  "dependencies": {
+    "@fal-ai/client": "1.10.1",
+    "@remotion/cli": "4.0.533",
+    "@remotion/layout-utils": "4.0.533",
+    "@remotion/media-utils": "4.0.533",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.533"
+  },
+  "devDependencies": {"@types/react": "19.0.0", "typescript": "5.8.3"}
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "赤ちゃん動画制作"
+  short_description: "育児記事を確認し、赤ちゃんの縦動画と投稿キャプションを完成まで制作する"
+  default_prompt: "$baby-video-producer を使って育児記事から赤ちゃんの縦動画と投稿キャプションを作ってください。台本を確認し、承認後は完成まで進めてください。"

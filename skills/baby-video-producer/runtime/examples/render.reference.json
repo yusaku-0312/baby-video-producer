@@ -1,0 +1,12 @@
+{
+  "original_volume": 1,
+  "bgm_volume": 0.12,
+  "style": {
+    "fontFamily": "\"Hiragino Maru Gothic ProN\", \"Noto Sans JP\", sans-serif",
+    "fontSizeRatio": 0.105,
+    "centerYRatio": 0.66,
+    "fillColor": "#ffffff",
+    "strokeColor": "#2b2b2b",
+    "strokeWidthRatio": 0.085
+  }
+}
